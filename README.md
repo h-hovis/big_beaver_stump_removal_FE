@@ -1,5 +1,7 @@
 # BigBeaverStumpRemoval
 
+Big Beaver Stump Removal is a small business located primarily in Cape Girardeau. As the name suggests, they can remove unwanted tree stumps; in certain cases they may also be able to cut down trees. They offer free estimates.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
 ## Development server
